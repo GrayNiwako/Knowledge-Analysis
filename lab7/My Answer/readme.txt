@@ -1,0 +1,3 @@
+sentiment_analysis.py是本次大作业的代码
+test.py是对训练集和验证集进行准确率和F-score的计算的代码
+output.txt是本次大作业的结果
